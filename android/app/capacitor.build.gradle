@@ -1,0 +1,7 @@
+// Generated Capacitor plugin configuration. Safe to regenerate with `npx cap sync android`.
+android {
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_21
+        targetCompatibility JavaVersion.VERSION_21
+    }
+}

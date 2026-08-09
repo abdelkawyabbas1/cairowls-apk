@@ -1,0 +1,11 @@
+{
+  "name": "كايرو لايت - إدارة العملاء",
+  "short_name": "كايرو لايت CRM",
+  "description": "تسجيل عملاء المعرض بدون اتصال بالإنترنت.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F7F8FA",
+  "theme_color": "#F7F8FA"
+}

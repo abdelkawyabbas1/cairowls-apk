@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cairo Lite CRM</string>
+    <string name="title_activity_main">Cairo Lite CRM</string>
+    <string name="package_name">com.premium.crm</string>
+    <string name="custom_url_scheme">com.premium.crm</string>
+</resources>
